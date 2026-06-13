@@ -1291,7 +1291,7 @@ const Contact = () => {
             <div className="space-y-3">
               {[
                 { label: "Our Central Location", val: "Mayfair, London, UK", icon: <MapPin className="w-4 h-4 text-[#0A2240]" /> },
-                { label: "Email Support", val: "info@pesbye.com", icon: <Mail className="w-4 h-4 text-[#0A2240]" />, link: "mailto:info@pesbye.com" },
+                { label: "Email Support", val: "info@pestcontrolmayfair.uk", icon: <Mail className="w-4 h-4 text-[#0A2240]" />, link: "mailto:info@pestcontrolmayfair.uk" },
                 { label: "Call Bookings Direct", val: "07424 520697", icon: <PhoneCall className="w-4 h-4 text-[#0A2240]" />, link: "tel:07424520697" }
               ].map((node, i) => (
                 <div key={i} className="flex items-center gap-4 bg-white/10 border border-[#0A2240]/10 rounded-xl p-4 text-left backdrop-blur-sm">
