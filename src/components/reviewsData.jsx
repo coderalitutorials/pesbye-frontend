@@ -4,7 +4,7 @@ import { Star, ShieldCheck, Quote, MessageSquare } from "lucide-react";
 const authenticReviews = [
   {
     id: 1,
-    name: "Sir Alistair Vance",
+    name: " Alistair Vance",
     role: "Mayfair Property Resident",
     image: "/images/reviews/user1.webp",
     text: "Absolutely fantastic response from PrimeShield. Had a severe mouse infestation in our structural loft space. The team arrived promptly, tracked down entry pathways, and locked the area down permanently. Very clean work.",
@@ -20,7 +20,7 @@ const authenticReviews = [
   },
   {
     id: 3,
-    name: "Lord Dominic West",
+    name: "Dominic West",
     role: "Belgravia Estate Landlord",
     image: "/images/reviews/user6.webp",
     text: "Had a highly persistent bed bug outbreak across two flat layouts. PrimeShield resolved it completely using specialized deep thermal heat treatments. Unmatched reliability and execution.",
